@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maksim 👋</h1>
 
 <p align="center">
-  <b>NRNU MEPhI · IICS · AI Software Engineering '28</b>
+  <b>NRNU MEPhI · IICS · AI Software Engineering '30</b>
 </p>
 
 <p align="center">
