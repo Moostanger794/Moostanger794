@@ -8,10 +8,7 @@
   Interested in AI/LLM systems, backend development and AI security.
 </p>
 
-<p align="center">
-  <img src="oceanxgod.gif" width="700">
-</p>
-<h3 align="center">Tech</h3>
+
 
 <p align="center">
   Python · FastAPI · C · C++ · Git · Linux · SQLite
