@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="oceanxgod.gif" width="700">
+  <img src="oceanxg0d.gif" width="700">
 </p>
 <h3 align="center">Tech</h3>
 
